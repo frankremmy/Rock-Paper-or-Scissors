@@ -12,3 +12,5 @@
 - Get the computer’s choice.
 - Compare the two choices and determine a winner.
 - Start the program and display the results.
+
+### Also, a cheat code is included such that if a user inputs 'bomb', they'll win no matter what.
